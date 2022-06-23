@@ -8,4 +8,3 @@ Requirements:
 
 Make sure you have python, Matplotlib and OpenCV installed on your pc (all the latest versions).
 The haar cascade files can be downloaded from the OpenCV Github repository.
-Implementation
